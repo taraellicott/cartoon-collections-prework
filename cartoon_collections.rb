@@ -1,4 +1,4 @@
-require pry 
+
 def roll_call_dwarves(dwarves)
   dwarves.each.with_index(1) do |dwarf,index|
   puts "#{index}. #{dwarf}"
@@ -6,7 +6,7 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet
- binding.pry
+ 
 end
 
 # def long_planeteer_calls# code an argument here
