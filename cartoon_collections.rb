@@ -9,9 +9,9 @@ def summon_captain_planet(planeteers)
  planeteers.map  { |x| x.capitalize! + "!" }
 end
 
-# def long_planeteer_calls# code an argument here
-#   # Your code here
-# end
+def long_planeteer_calls(calls_array)
+  
+end
 
 # def find_the_cheese# code an argument here
 #   # the array below is here to help
