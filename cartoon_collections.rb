@@ -6,7 +6,7 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(planeteers)
-  capitalize!
+ planeteers.map.capitalize! do ||
  
 end
 
